@@ -1,6 +1,7 @@
 ## Participant-level metadata distribution (by modality)
+> Counts reflect participants with available metadata in each modality-specific cohort.
 
-### Fundus cohort (N = 2042)
+### Fundus cohort
 
 | Group | Variables (Count) |
 |---|---|
@@ -8,7 +9,7 @@
 | **Demographics** | Age: 54.4 ± 11.1 (18–89); Male (1067), Female (975) |
 | **Systemic / Ocular History** | Diabetes (887), Hypertension (1003), Systemic disease (623), Prior eye problem (1267), Spectacles use (1350), Past ocular surgery (705) |
 
-### OCT cohort (N = 1333)
+### OCT cohort
 
 | Group | Variables (Count) |
 |---|---|
